@@ -52,6 +52,7 @@ HTML_TEMPLATE = """
                     <option value="一樓">一樓</option>
                     <option value="二樓">二樓</option>
                     <option value="三樓">三樓</option>
+                    <option value="三樓">四樓</option>
                 </select>
             </div>
 
